@@ -11,4 +11,7 @@ Discentes:
 - Rafael Augusto Barbosa de Carvalho
 - Israel Pantoja de Carvalho
 
-Instruções da atividade.
+Instruções da atividade:
+
+O usuário deve "Rodar" arquivo TesteEmprestimoDAO. E utilizar o Programa "h2" como servidor para que a aplicação funcione.
+Para enfim poder adicionar, cinsultar e ecluir dados.
